@@ -20,3 +20,5 @@ API:
 https://random.dog/woof.json    
 
 https://randomfox.ca/floof/
+
+https://random-d.uk/api/random

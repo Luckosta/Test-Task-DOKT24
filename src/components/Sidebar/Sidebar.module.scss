@@ -1,0 +1,14 @@
+.container {
+	display: block;
+	margin: auto auto;
+	background-color: rgba($color: #63ddea, $alpha: 0.5);
+	padding: 10px;
+	border-radius: 25px;
+	.ref {
+		display: block;
+		margin: 40px 0px;
+		color: black;
+		cursor: pointer;
+		text-align: center;
+	}
+}

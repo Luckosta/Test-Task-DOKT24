@@ -1,0 +1,9 @@
+.wrapper {
+	background-color: rgba($color: #d9f7ef, $alpha: 1.0);
+	height: 100vh;
+	width: 100%;
+	padding: 20px;
+   display: grid;
+	grid-template-columns: 100px 1fr;
+	gap: 60px;
+}
